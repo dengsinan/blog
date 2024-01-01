@@ -5,4 +5,5 @@ export default defineConfig({
   description: '',
   themeConfig: {},
   srcDir: 'src',
+  base: '/blog/',
 });
